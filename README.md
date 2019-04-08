@@ -1,4 +1,5 @@
 # example
+# ploo scm checking
 
 Example Maven project generated using `maven-archetype-quickstart`
 
